@@ -1,0 +1,15 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Helpful tools when you want software to support more than a single country
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+countrynames.php:
+
+/*
+   List of all countries and their ISO 3166 code.
+   Names are in UTF-8.
+
+   Collection made by Johannes Lundberg
+   Send fixes to first.last@gmail.com
+
+   Use freely. Public domain.
+*/
