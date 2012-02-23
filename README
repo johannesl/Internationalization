@@ -2,14 +2,19 @@
 Helpful tools when you want software to support more than a single country
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-countrynames.php:
+Collections and code by Johannes Lundberg
+Send fixes to first.last@gmail.com
 
-/*
-   List of all countries and their ISO 3166 code.
-   Names are in UTF-8.
+Use freely. Public domain.
 
-   Collection made by Johannes Lundberg
-   Send fixes to first.last@gmail.com
 
-   Use freely. Public domain.
-*/
+== countrynames.php ==
+List of all countries and their ISO 3166 code.
+Names are in UTF-8.
+
+== countryaliases.php ==
+You have a UTF-8 string with a supposed country name.
+Use this to validate that name, and get the country's ISO 3166 code.
+
+
+** These collections are maintained and up to date. **
