@@ -1,6 +1,6 @@
 <?
 /*
-   Last updated 2012-02-23.
+   Last updated 2012-03-09.
 
    You have a UTF-8 string with a supposed country name.
    Use this to validate that name, and get the country's ISO 3166 code.
@@ -20,20 +20,29 @@ $countryaliases = array(
 "bolivia"=>"BO",
 "bosnia & herzegovina"=>"BA",
 "british virgin islands"=>"VG",
+"central african rep."=>"CF",
 "congo, d.r."=>"CD",
 "cote divoire"=>"CI",
 "curacao"=>"CW",
+"czech rep."=>"CZ",
+"dem. rep. of the congo"=>"CD",
 "democratic republic of the congo"=>"CD",
+"dominican rep."=>"DO",
 "east timor"=>"TL",
 "faeroe islands"=>"FO",
 "falkland islands"=>"FK",
+"falkland islands, malvinas"=>"FK",
 "guinea bissau"=>"GW",
 "hongkong"=>"HK",
+"hong kong, china"=>"HK",
 "iran"=>"IR",
 "ivory coast"=>"CI",
 "lao"=>"LA",
+"lao p.d.r."=>"LA",
 "laos"=>"LA",
 "libya"=>"LY",
+"korea, rep. of"=>"KP",
+"macao, china"=>"MO",
 "macau"=>"MO",
 "macedonia"=>"MK",
 "micronesia"=>"FM",
@@ -53,6 +62,7 @@ $countryaliases = array(
 "syria"=>"SY",
 "taiwan"=>"TW",
 "tanzania"=>"TZ",
+"the former yugoslav republic of macedonia"=>"MK",
 "trinidad & tobago"=>"TT",
 "turks & caicos islands"=>"TC",
 "us virgin islands"=>"VI",
