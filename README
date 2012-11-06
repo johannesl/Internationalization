@@ -8,11 +8,11 @@ Send fixes to first.last@gmail.com
 Use freely. Public domain.
 
 
-== countrynames.php ==
+== countrynames.php / countrynames.json / countrycodes.json ==
 List of all countries and their ISO 3166 code.
 Names are in UTF-8.
 
-== countryaliases.php ==
+== countryaliases.php / countryaliases.json ==
 You have a UTF-8 string with a supposed country name.
 Use this to validate that name, and get the country's ISO 3166 code.
 

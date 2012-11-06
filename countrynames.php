@@ -1,6 +1,6 @@
 <?
 /*
-   Last updated 2011-11-07.
+   Last updated 2012-11-06.
 
    List of all countries and their ISO 3166 code.
    Names are in UTF-8.
@@ -138,7 +138,7 @@ $countrynames = array(
 "LB"=>"Lebanon",
 "LS"=>"Lesotho",
 "LR"=>"Liberia",
-"LY"=>"Libyan Arab Jamahiriya",
+"LY"=>"Libya",
 "LI"=>"Liechtenstein",
 "LT"=>"Lithuania",
 "LU"=>"Luxembourg",
@@ -390,7 +390,7 @@ $countrycodes = array(
 "Lebanon"=>"LB",
 "Lesotho"=>"LS",
 "Liberia"=>"LR",
-"Libyan Arab Jamahiriya"=>"LY",
+"Libya"=>"LY",
 "Liechtenstein"=>"LI",
 "Lithuania"=>"LT",
 "Luxembourg"=>"LU",
