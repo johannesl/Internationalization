@@ -1,6 +1,6 @@
 <?
 /*
-   Last updated 2012-11-06.
+   Last updated 2013-03-20.
 
    You have a UTF-8 string with a supposed country name.
    Use this to validate that name, and get the country's ISO 3166 code.
@@ -49,6 +49,7 @@ $countryaliases = array(
 "north korea"=>"KP",
 "palestine"=>"PS",
 "palestinian territory"=>"PS",
+"palestinian territory, occupied"=>"PS",
 "reunion"=>"RE",
 "russia"=>"RU",
 "saint helena"=>"SH",

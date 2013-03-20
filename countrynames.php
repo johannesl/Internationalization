@@ -1,6 +1,6 @@
 <?
 /*
-   Last updated 2012-11-06.
+   Last updated 2013-03-20.
 
    List of all countries and their ISO 3166 code.
    Names are in UTF-8.
@@ -181,7 +181,7 @@ $countrynames = array(
 "OM"=>"Oman",
 "PK"=>"Pakistan",
 "PW"=>"Palau",
-"PS"=>"Palestinian Territory, Occupied",
+"PS"=>"Palestine, State of",
 "PA"=>"Panama",
 "PG"=>"Papua New Guinea",
 "PY"=>"Paraguay",
@@ -433,7 +433,7 @@ $countrycodes = array(
 "Oman"=>"OM",
 "Pakistan"=>"PK",
 "Palau"=>"PW",
-"Palestinian Territory, Occupied"=>"PS",
+"Palestine, State of"=>"PS",
 "Panama"=>"PA",
 "Papua New Guinea"=>"PG",
 "Paraguay"=>"PY",
