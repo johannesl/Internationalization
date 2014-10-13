@@ -1,4 +1,4 @@
-<?
+<?php
 
 include 'countrynames.php';
 include 'countryaliases.php';
