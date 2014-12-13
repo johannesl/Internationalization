@@ -1,6 +1,6 @@
-<?
+<?php
 /*
-   Last updated 2014-11-28.
+   Last updated 2014-12-13.
 
    Short names used commonly in english language instead of the offical names.
    Names are in UTF-8.
