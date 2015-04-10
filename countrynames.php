@@ -1,10 +1,10 @@
 <?php
 /*
-   Last updated 2013-03-20.
+   Last updated 2015-04-10.
 
-   List of all countries and their ISO 3166 code.
-   Names are in UTF-8.
-
+   List of all countries and their ISO 3166:2 code.
+   Names are in UTF-8 and based on the official ISO "Short name lower case".
+   
    Collection made by Johannes Lundberg
    Send fixes to first.last@gmail.com
 
@@ -52,7 +52,7 @@ $countrynames = array(
 "KH"=>"Cambodia",
 "CM"=>"Cameroon",
 "CA"=>"Canada",
-"CV"=>"Cape Verde",
+"CV"=>"Cabo Verde",
 "KY"=>"Cayman Islands",
 "CF"=>"Central African Republic",
 "TD"=>"Chad",
@@ -246,8 +246,8 @@ $countrynames = array(
 "UG"=>"Uganda",
 "UA"=>"Ukraine",
 "AE"=>"United Arab Emirates",
-"GB"=>"United Kingdom",
-"US"=>"United States",
+"GB"=>"United Kingdom of Great Britain and Northern Ireland",
+"US"=>"United States of America",
 "UM"=>"United States Minor Outlying Islands",
 "UY"=>"Uruguay",
 "UZ"=>"Uzbekistan",
@@ -304,7 +304,7 @@ $countrycodes = array(
 "Cambodia"=>"KH",
 "Cameroon"=>"CM",
 "Canada"=>"CA",
-"Cape Verde"=>"CV",
+"Cabo Verde"=>"CV",
 "Cayman Islands"=>"KY",
 "Central African Republic"=>"CF",
 "Chad"=>"TD",
@@ -498,8 +498,8 @@ $countrycodes = array(
 "Uganda"=>"UG",
 "Ukraine"=>"UA",
 "United Arab Emirates"=>"AE",
-"United Kingdom"=>"GB",
-"United States"=>"US",
+"United Kingdom of Great Britain and Northern Ireland"=>"GB",
+"United States of America"=>"US",
 "United States Minor Outlying Islands"=>"UM",
 "Uruguay"=>"UY",
 "Uzbekistan"=>"UZ",
