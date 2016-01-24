@@ -9,12 +9,15 @@ Use freely. Public domain.
 
 
 == countrynames.php / countrynames.json / countrycodes.json ==
-List of all countries and their ISO 3166 code.
+List of all countries and their ISO 3166:2 code.
 Names are in UTF-8.
+
+== countrynames-shorter.json / countrycodes-shorter.json / .php ==
+Shorter names used commonly in english language instead of the offical names.
+Mapping back and forth to their corresponding ISO 3166:2 code.
 
 == countryaliases.php / countryaliases.json ==
 You have a UTF-8 string with a supposed country name.
-Use this to validate that name, and get the country's ISO 3166 code.
-
+Use this to validate that name, and get the country's ISO 3166:2 code.
 
 ** These collections are maintained and up to date. **

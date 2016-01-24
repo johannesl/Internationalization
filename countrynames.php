@@ -3,10 +3,10 @@
    Last updated 2015-04-10.
 
    List of all countries and their ISO 3166:2 code.
-   Names are in UTF-8 and based on the official ISO "Short name lower case".
+   Names are in UTF-8 and based on the official ISO "Shortname Lowercase".
    
-   Collection made by Johannes Lundberg
-   Send fixes to first.last@gmail.com
+   Collection made by Johannes Lundberg from the official iso.org sources.
+   Send fixes to first.last@gmail.com or @johannesl on GitHub.
 
    Use freely. Public domain.
 */
