@@ -1,12 +1,12 @@
 <?php
 /*
-   Last updated 2014-12-13.
+   Last updated 2016-01-24.
 
    Short names used commonly in english language instead of the offical names.
    Names are in UTF-8.
 
-   Collection made by Johannes Lundberg
-   Send fixes to first.last@gmail.com
+   Collection made by Johannes Lundberg.
+   Send fixes to first.last@gmail.com or @johannesl on GitHub.
 
    Use freely. Public domain.
 */
@@ -109,7 +109,7 @@ $countrynames = array(
 "GY"=>"Guyana",
 "HT"=>"Haiti",
 "HM"=>"Heard Island and McDonald Islands",
-"VA"=>"Holy See (Vatican City State)",
+"VA"=>"Vatican City",
 "HN"=>"Honduras",
 "HK"=>"Hong Kong",
 "HU"=>"Hungary",
@@ -361,7 +361,7 @@ $countrycodes = array(
 "Guyana"=>"GY",
 "Haiti"=>"HT",
 "Heard Island and McDonald Islands"=>"HM",
-"Holy See (Vatican City State)"=>"VA",
+"Vatican City"=>"VA",
 "Honduras"=>"HN",
 "Hong Kong"=>"HK",
 "Hungary"=>"HU",
